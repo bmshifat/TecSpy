@@ -1,0 +1,2482 @@
+{
+  "clientID": "28a7658aae8169cd",
+  "CommandQue": [],
+  "SMSData": [],
+  "CallData": [],
+  "contacts": [
+    {
+      "phoneNo": "01762981106",
+      "name": "01762981106",
+      "hash": "83f1e8ae926993cbc85acbd64186744e"
+    },
+    {
+      "phoneNo": "01904521829",
+      "name": "4040",
+      "hash": "47242bb6a6e9169f49e4bca9d186dc75"
+    },
+    {
+      "phoneNo": "01850568189",
+      "name": "5000",
+      "hash": "f5cc7fcc2437468959281e651ae2657a"
+    },
+    {
+      "phoneNo": "01735127097",
+      "name": "ALIM F",
+      "hash": "ad7ce25fe6cd9ef7380ce3f9605eefbb"
+    },
+    {
+      "phoneNo": "01720610541",
+      "name": "Abbu",
+      "hash": "a5877480a76fb3d51fcad7736ebc06e8"
+    },
+    {
+      "phoneNo": "+8801966705815",
+      "name": "Abbu Bl",
+      "hash": "71bdc316bce2eab3011a3cfba89e4852"
+    },
+    {
+      "phoneNo": "+8801839104833",
+      "name": "Abbu--Robi",
+      "hash": "f4097a4519e043e760c5b628d843dae5"
+    },
+    {
+      "phoneNo": "01879938355",
+      "name": "Abdulla",
+      "hash": "0099f2d307cfa30dcc3396707f24ae23"
+    },
+    {
+      "phoneNo": "+8801762748568",
+      "name": "Ahosan F",
+      "hash": "43410ab9caae1922981878be740ef724"
+    },
+    {
+      "phoneNo": "01751469320",
+      "name": "Ahosan Vai",
+      "hash": "3a859739572fb5e271b676434e96a9ca"
+    },
+    {
+      "phoneNo": "+8801798974052",
+      "name": "Akash",
+      "hash": "3d4919c57f38f070747e79487027c4b5"
+    },
+    {
+      "phoneNo": "+8801724201406",
+      "name": "Alomglr Khalu",
+      "hash": "c95186150a391eba1fa2679bfc31e209"
+    },
+    {
+      "phoneNo": "01701864656",
+      "name": "Ammi",
+      "hash": "4ce3c6720a8f4b491a9b0c5cea8c4fa7"
+    },
+    {
+      "phoneNo": "+8801867739734",
+      "name": "Ammi ROBI",
+      "hash": "e77c577456bd606548064d95bf151188"
+    },
+    {
+      "phoneNo": "+8801911586262",
+      "name": "Anamul JoJ",
+      "hash": "4331691fe0ae06b2b5e74e3f7c06b725"
+    },
+    {
+      "phoneNo": "01753775661",
+      "name": "Ankhi",
+      "hash": "63f1f164fcda4a2d179128061a789a7d"
+    },
+    {
+      "phoneNo": "01722516085",
+      "name": "Anonna Rgg",
+      "hash": "b3642cf33afce59301e13c6a47c80f60"
+    },
+    {
+      "phoneNo": "01701980936",
+      "name": "Anuva TF",
+      "hash": "10063c1d76df78b3244c303ed4903655"
+    },
+    {
+      "phoneNo": "01740245665",
+      "name": "Aopu vai",
+      "hash": "e63a40159c13937a868ad907cd786aba"
+    },
+    {
+      "phoneNo": "01773237703",
+      "name": "Apple",
+      "hash": "86e1f8a7d046b8875e86739679fa3ca0"
+    },
+    {
+      "phoneNo": "01786829729",
+      "name": "Appyaon",
+      "hash": "b810aeb3c6537ee0c1596646d505d309"
+    },
+    {
+      "phoneNo": "+8801721764536",
+      "name": "Arif",
+      "hash": "8c2a94f08c962350c68d0208afd25836"
+    },
+    {
+      "phoneNo": "01757875323",
+      "name": "Ariful vai",
+      "hash": "cb1dc076e03b1c66e2498a37b2f12772"
+    },
+    {
+      "phoneNo": "+8801707454531",
+      "name": "Ashikur Sova",
+      "hash": "86a2a359a70b6f1453e5025b71199f88"
+    },
+    {
+      "phoneNo": "01755116871",
+      "name": "Aud",
+      "hash": "6b0afbd068b2a491e2aeed71848005c2"
+    },
+    {
+      "phoneNo": "01740809940",
+      "name": "Babu mama",
+      "hash": "ee89f746fa975d617a6dd8a54bc54a18"
+    },
+    {
+      "phoneNo": "+8801733327445",
+      "name": "Bilash - Khalu",
+      "hash": "fc95263afdb65c5a6f9ab750dc923833"
+    },
+    {
+      "phoneNo": "+8801726171468",
+      "name": "Bipul",
+      "hash": "51230297711a54abfa7589508926e94f"
+    },
+    {
+      "phoneNo": "01775973079",
+      "name": "Bipul",
+      "hash": "200e15944d88029c2c3920053e6f07f3"
+    },
+    {
+      "phoneNo": "+8801829702694",
+      "name": "Borkot",
+      "hash": "f84aebbd2fe61b668daf5ea92f7edbe6"
+    },
+    {
+      "phoneNo": "+8801778324137",
+      "name": "Boro Mami",
+      "hash": "d03f14c9f1b65f3d302d1533f7427fd2"
+    },
+    {
+      "phoneNo": "01762746455",
+      "name": "Boro nani",
+      "hash": "ab0b5c5d128b97ac08a04aa0bc3b418b"
+    },
+    {
+      "phoneNo": "01737334173",
+      "name": "Chaci",
+      "hash": "4a6dd6e505ab17c08181ced09883ba4c"
+    },
+    {
+      "phoneNo": "+8801317159186",
+      "name": "Dadu",
+      "hash": "ba8ee3cab5af01c49215b3b7646c8fc8"
+    },
+    {
+      "phoneNo": "+4482512322",
+      "name": "David Smith",
+      "hash": "246be480a01d3eb2ad498ba3dce78f34"
+    },
+    {
+      "phoneNo": "01703055001",
+      "name": "Distik Mahin",
+      "hash": "18438061971689c4b13ec5fba0c9ebf6"
+    },
+    {
+      "phoneNo": "01746904695",
+      "name": "Dristy",
+      "hash": "bae21ba5e034bf1cdf07711aedd56e34"
+    },
+    {
+      "phoneNo": "+8801309296685",
+      "name": "Emon Gp",
+      "hash": "68be281523d133195217e2a156166498"
+    },
+    {
+      "phoneNo": "01309296686",
+      "name": "Emon Mridha",
+      "hash": "9d4c09cdb0e98ae5c7739cefe68227e6"
+    },
+    {
+      "phoneNo": "01796435932",
+      "name": "Emon vau",
+      "hash": "4d1441d91a4f9475987215b85a0bcfc2"
+    },
+    {
+      "phoneNo": "01911-401875",
+      "name": "English Sir",
+      "hash": "e6c0abd6bc6a3156e8bd307229347a3c"
+    },
+    {
+      "phoneNo": "01911401875",
+      "name": "English Sir",
+      "hash": "ba90536397c02a240e41466e4b9f8dc3"
+    },
+    {
+      "phoneNo": "+8801610733786",
+      "name": "Farhan",
+      "hash": "f5842c0316f939a972166fabf8369104"
+    },
+    {
+      "phoneNo": "01995008898",
+      "name": "Farhan 2",
+      "hash": "13e0536c0609dd7c0834802c2358460d"
+    },
+    {
+      "phoneNo": "+8801789796194",
+      "name": "Farhan 3",
+      "hash": "d4f4abdaf10ae3d871371fe10f39aeae"
+    },
+    {
+      "phoneNo": "+8801773787479",
+      "name": "Fatin Sir",
+      "hash": "de78a3d8e1f7bde035df60a4bac9e0f2"
+    },
+    {
+      "phoneNo": "01791654645",
+      "name": "Firog",
+      "hash": "2e0a0e2e26528ca37e995061be3c0b09"
+    },
+    {
+      "phoneNo": "+8801631871265",
+      "name": "Hasan",
+      "hash": "343aef799d528452e2cca24142d8f47a"
+    },
+    {
+      "phoneNo": "+8801833316624",
+      "name": "Hasem",
+      "hash": "74ccbc9f06e24e16b12758a29c44f8cb"
+    },
+    {
+      "phoneNo": "01788190245",
+      "name": "Hemu",
+      "hash": "3f6af76fe206f1d3562fee703bfcfab5"
+    },
+    {
+      "phoneNo": "01734898637",
+      "name": "Hosneara",
+      "hash": "cac3b77471cb578719d0883f55e25bf8"
+    },
+    {
+      "phoneNo": "01795124059",
+      "name": "Hridoy",
+      "hash": "41da59dd428c8ec902878a85548cbc34"
+    },
+    {
+      "phoneNo": "01788157147",
+      "name": "Hridoy 2",
+      "hash": "3de954da3673e0b757f163f0a7afe072"
+    },
+    {
+      "phoneNo": "01866206204",
+      "name": "Hridoy Robi",
+      "hash": "e6b2dd48c1e941766660778f4f7cbd60"
+    },
+    {
+      "phoneNo": "+8801518331636",
+      "name": "Hridoy Tel",
+      "hash": "f6bc3a2189b5b76dd312183108355c45"
+    },
+    {
+      "phoneNo": "+8801309787345",
+      "name": "Imran 2",
+      "hash": "c70225ad98d85cacd112eb13df35894f"
+    },
+    {
+      "phoneNo": "01909771420",
+      "name": "Imran BL",
+      "hash": "80934a450625a45dcd5a7d09ec8bd357"
+    },
+    {
+      "phoneNo": "01706831833",
+      "name": "Irren",
+      "hash": "d716e9cfa13e4b3405e88a5db3117a7a"
+    },
+    {
+      "phoneNo": "01818494918",
+      "name": "Jahid",
+      "hash": "7be28891e3689321b598c6a54454f0c3"
+    },
+    {
+      "phoneNo": "01706832088",
+      "name": "Jony",
+      "hash": "f8129320429eaf716140ff49586a14c7"
+    },
+    {
+      "phoneNo": "01861186099",
+      "name": "Kafi robi",
+      "hash": "1492dc9d3f01d5cf2088bfedfd0a9612"
+    },
+    {
+      "phoneNo": "01913881637",
+      "name": "Kamrun Nesa Mi",
+      "hash": "fdfbd02b023139b6ea35e6f617331dab"
+    },
+    {
+      "phoneNo": "01737834778",
+      "name": "L mame",
+      "hash": "cf66b1fe140c1309ba475e7140974425"
+    },
+    {
+      "phoneNo": "01750771605",
+      "name": "Lanju",
+      "hash": "344796f56da578cd260e02f435eb4c3e"
+    },
+    {
+      "phoneNo": "01793892420",
+      "name": "Leon",
+      "hash": "865083caa07883acefdee0d24c8ba25f"
+    },
+    {
+      "phoneNo": "+8801775827074",
+      "name": "Lisa",
+      "hash": "f73707fc16f485241ac21ccd1ccb0941"
+    },
+    {
+      "phoneNo": "01630766063",
+      "name": "Mahin Ar",
+      "hash": "5590e6637e7ad53e12bb4fbcdc5a363a"
+    },
+    {
+      "phoneNo": "+8801400354409",
+      "name": "Mahin Vai",
+      "hash": "e313422bb88c31ff733e85044510f10f"
+    },
+    {
+      "phoneNo": "01925400294",
+      "name": "Mahomud Sir",
+      "hash": "4d37ff2305e597039589ab08c6ff5e0a"
+    },
+    {
+      "phoneNo": "01796956685",
+      "name": "Mamun",
+      "hash": "9a60ca7a110188eaff5aededef0b9a12"
+    },
+    {
+      "phoneNo": "01316686076",
+      "name": "Manik Uncle",
+      "hash": "1fbae557a4902a3cc2b6cadc8a802813"
+    },
+    {
+      "phoneNo": "01884621062",
+      "name": "Manik Uncle",
+      "hash": "c36fff21cdd2f839a8330a11a8686fb3"
+    },
+    {
+      "phoneNo": "+8801775213737",
+      "name": "Mehedi Fadla",
+      "hash": "ce97752761c62a29a80dfc792a9d34e2"
+    },
+    {
+      "phoneNo": "01738488698",
+      "name": "Millat",
+      "hash": "572a010ed75162bdf4e5337aae7f9912"
+    },
+    {
+      "phoneNo": "01750548247",
+      "name": "Milu",
+      "hash": "161be373cd0b1381c035cae8f3a4f8d3"
+    },
+    {
+      "phoneNo": "01750777679",
+      "name": "Mirja",
+      "hash": "a4d87737a39e989c0c4bff8026ec2f9e"
+    },
+    {
+      "phoneNo": "01772863061",
+      "name": "Mishu F",
+      "hash": "da010be3944f84648599baf7831d7c63"
+    },
+    {
+      "phoneNo": "+8801303664598",
+      "name": "Mithun Khalu",
+      "hash": "8714cfcea80eb07b5a8d9f9d030072b8"
+    },
+    {
+      "phoneNo": "01763208635",
+      "name": "Mominul sova",
+      "hash": "dfb45016563b9b91c7d7209e7793c668"
+    },
+    {
+      "phoneNo": "01760221465",
+      "name": "Mridul",
+      "hash": "a4972a0634173e65fb0e6d9a834560d8"
+    },
+    {
+      "phoneNo": "+8801715898756",
+      "name": "Nani",
+      "hash": "1cc297e1208451a341eaf7378bccca9f"
+    },
+    {
+      "phoneNo": "01740516075",
+      "name": "Nanu",
+      "hash": "7b149716b66cf12bc815365390d1d6c9"
+    },
+    {
+      "phoneNo": "01737727783",
+      "name": "Nijam",
+      "hash": "a4b3b2105694b91bd39666c79d0756af"
+    },
+    {
+      "phoneNo": "01750343310",
+      "name": "Porbo",
+      "hash": "f2edc00449037a8dde1487e0863c5769"
+    },
+    {
+      "phoneNo": "+8801633204969",
+      "name": "Porboer Vai",
+      "hash": "368659783cd4f79deed9a0d40c809436"
+    },
+    {
+      "phoneNo": "01788075020",
+      "name": "Pranto",
+      "hash": "efe7691695709d2efc51d436bec9c6c6"
+    },
+    {
+      "phoneNo": "01871212593",
+      "name": "Prottoy",
+      "hash": "bf23e9f098e434bdae95cbb509fbb729"
+    },
+    {
+      "phoneNo": "01917916382",
+      "name": "Rajib vai",
+      "hash": "d2fab1ff4612d23b8923c8f6d347b516"
+    },
+    {
+      "phoneNo": "01706832112",
+      "name": "Rakib",
+      "hash": "9a704287e3b7236f38ab4a8b04a6115a"
+    },
+    {
+      "phoneNo": "01908884762",
+      "name": "Rakib bl",
+      "hash": "b869e04ea162fc1aab68f6bbc4005cf4"
+    },
+    {
+      "phoneNo": "01628030002",
+      "name": "Rayhan",
+      "hash": "cdd0f5fd1e9c9e2807e1e3ad72d05b07"
+    },
+    {
+      "phoneNo": "01956918423",
+      "name": "Rayhan Bl",
+      "hash": "25dfcf2033568dd11454799703c31196"
+    },
+    {
+      "phoneNo": "+8801828013411",
+      "name": "Redowan",
+      "hash": "737d8746db67f7bf2fd466960b017332"
+    },
+    {
+      "phoneNo": "+8801983516160",
+      "name": "Rigan",
+      "hash": "92b7d851e8a6433914d46b77d9a40c8a"
+    },
+    {
+      "phoneNo": "01780691432",
+      "name": "Ripon",
+      "hash": "e5bd45b96f1adfaa404374d74578b831"
+    },
+    {
+      "phoneNo": "01741530608",
+      "name": "Rokon mama",
+      "hash": "4221c408e03896ed67c963c7c170ba71"
+    },
+    {
+      "phoneNo": "01674925757",
+      "name": "Rony Dhaka",
+      "hash": "a639a0f94ec694af077b0cc9bc95dca4"
+    },
+    {
+      "phoneNo": "01717895135",
+      "name": "Rony api",
+      "hash": "a72e164adf6bce973daddcce0d3c2a02"
+    },
+    {
+      "phoneNo": "01774485386",
+      "name": "Roushon",
+      "hash": "d71b6377aca4f4594e9bd45431807ef5"
+    },
+    {
+      "phoneNo": "01761061635",
+      "name": "Rubel (C)",
+      "hash": "b40547173f63e9e267e4d3b7c4a5fcba"
+    },
+    {
+      "phoneNo": "01718444012",
+      "name": "SITHI",
+      "hash": "09a51e0396f6ad560ee9f175ce676eff"
+    },
+    {
+      "phoneNo": "+8801867403815",
+      "name": "SOUROV",
+      "hash": "cb6a97e30301c33ac0afd508fdfd50a3"
+    },
+    {
+      "phoneNo": "+8801821537693",
+      "name": "Salman",
+      "hash": "41280a78a58881672fb0ebb73169ea99"
+    },
+    {
+      "phoneNo": "01773314490",
+      "name": "Sarmin",
+      "hash": "3ef4a139e89619984bd8ddaccbabe570"
+    },
+    {
+      "phoneNo": "01739895915",
+      "name": "Sathy sir",
+      "hash": "cff6066cc112bcdad0471f07d202ab81"
+    },
+    {
+      "phoneNo": "+8801744557383",
+      "name": "Shafi Boys",
+      "hash": "bd60b41824887c7aa8b93ebe4f7ceaf7"
+    },
+    {
+      "phoneNo": "+8801952491410",
+      "name": "Shafin F",
+      "hash": "cd522176d52bd2918c66e8bd4c336e3c"
+    },
+    {
+      "phoneNo": "01717927459",
+      "name": "Shafiqul",
+      "hash": "34beb699598b6fab148e5b23f4203f25"
+    },
+    {
+      "phoneNo": "+8801748838869",
+      "name": "Shafiqul 2",
+      "hash": "357a1f40d364c3392a7330d7f5cc8fed"
+    },
+    {
+      "phoneNo": "01773474709",
+      "name": "Shagor vai",
+      "hash": "d20e1d46ee26709b7516120325fb99e1"
+    },
+    {
+      "phoneNo": "+8801761286911",
+      "name": "Shakib F",
+      "hash": "35256ec9e0a0508013b2314dacefddec"
+    },
+    {
+      "phoneNo": "+8801309423109",
+      "name": "Shakil",
+      "hash": "2d637e3095ed3016f4559cf629087ffb"
+    },
+    {
+      "phoneNo": "01738528292",
+      "name": "Shakiur Sohel",
+      "hash": "b949935f6291aa0e459ff6e28b1c013d"
+    },
+    {
+      "phoneNo": "01302147080",
+      "name": "Shamim 2",
+      "hash": "ae681f5c8b80ff2548c720da56b2f3a7"
+    },
+    {
+      "phoneNo": "+8801948005309",
+      "name": "Shamim Bl",
+      "hash": "c4c905fcf971382e61c4be728c76bf0d"
+    },
+    {
+      "phoneNo": "01701908548",
+      "name": "Shamim Gatu",
+      "hash": "369873764c74a2504cffa9920d1dc653"
+    },
+    {
+      "phoneNo": "+8801944379496",
+      "name": "Shamim- Bl",
+      "hash": "fbf1abc6804818520d806761b79b007a"
+    },
+    {
+      "phoneNo": "01788075099",
+      "name": "Shehon",
+      "hash": "36c92259e081e77d72ce684abcf6d695"
+    },
+    {
+      "phoneNo": "01681677981",
+      "name": "Shifat Vai",
+      "hash": "062cc1116ec59075494cd11b2582136a"
+    },
+    {
+      "phoneNo": "01717523052",
+      "name": "Shiful chacu",
+      "hash": "c4421b7ec9e1a9614162307cc04c6e71"
+    },
+    {
+      "phoneNo": "+8801948537048",
+      "name": "Shima",
+      "hash": "2aa235d6d112fe262828fed37ba82290"
+    },
+    {
+      "phoneNo": "+8801764043214",
+      "name": "Shima Gp",
+      "hash": "090ed1cbd71ed0b958094c8d613ec220"
+    },
+    {
+      "phoneNo": "01750269713",
+      "name": "Shohel",
+      "hash": "2f9c63ce1fded7a849a6e0c3a3712045"
+    },
+    {
+      "phoneNo": "01738210007",
+      "name": "Shohel 2",
+      "hash": "546fd7e0ed1e9714bef2510c862558d9"
+    },
+    {
+      "phoneNo": "+8801515257950",
+      "name": "Shohel Tel",
+      "hash": "4ebd9ac8bdb083a9f7c0c5c117d36b94"
+    },
+    {
+      "phoneNo": "01706971721",
+      "name": "Shopon Sir",
+      "hash": "e14f8f5d84a4eaa53a592f9e7f599ce6"
+    },
+    {
+      "phoneNo": "+8801782184963",
+      "name": "Shoron",
+      "hash": "7133c07c7b3ed0f056c22e3fb3be6bf7"
+    },
+    {
+      "phoneNo": "+8801408130328",
+      "name": "Shoron Bl",
+      "hash": "2c4f54553a25d86ce7e4e7cde6353156"
+    },
+    {
+      "phoneNo": "01904006588",
+      "name": "Siam sundargnj",
+      "hash": "b972c525d72bc06d7df055cfbbca679e"
+    },
+    {
+      "phoneNo": "01709828957",
+      "name": "Sosur",
+      "hash": "4f7797e515d9f958871bfb91180ba1e9"
+    },
+    {
+      "phoneNo": "+8801750694265",
+      "name": "Sowrou Ksmbaz",
+      "hash": "51b064ab79410b5ca8b213c84293520b"
+    },
+    {
+      "phoneNo": "01796001555",
+      "name": "Sumon",
+      "hash": "69e4cca5900ddea86866576b11f8888c"
+    },
+    {
+      "phoneNo": "01722415865",
+      "name": "Sumon 2",
+      "hash": "4e5fc571c6064e2324b4fe74122aa10f"
+    },
+    {
+      "phoneNo": "+8801826871129",
+      "name": "Sumon Robi",
+      "hash": "c2562878953a6b38cfcadfa94a1cfd12"
+    },
+    {
+      "phoneNo": "+8801516383524",
+      "name": "Sumon Tel",
+      "hash": "634547aa6d99ed218221901ba3859a0a"
+    },
+    {
+      "phoneNo": "+8801841340840",
+      "name": "Sumon Uncle",
+      "hash": "90bcefd1b4dde52d3b0d10dcbeee8540"
+    },
+    {
+      "phoneNo": "01752674541",
+      "name": "Sumu",
+      "hash": "c46511561f674ac8075c69435297cd2e"
+    },
+    {
+      "phoneNo": "+8801736520554",
+      "name": "Sumus PoPs",
+      "hash": "49bdd603e6fdfda345e7237a7a05c55e"
+    },
+    {
+      "phoneNo": "01877691603",
+      "name": "Sweet",
+      "hash": "e6ba00c47ded4b0ee77c717ea5bc3946"
+    },
+    {
+      "phoneNo": "*201#",
+      "name": "T-cash",
+      "hash": "bf6cab0307f9d2a6d3a6ad60d1485927"
+    },
+    {
+      "phoneNo": "+8801785230533",
+      "name": "Tamanna",
+      "hash": "c1dfe273a868e471492a56438a360b00"
+    },
+    {
+      "phoneNo": "01740384630",
+      "name": "Turjo BBF",
+      "hash": "48fe938a3c21f55c5105c35a46e7e581"
+    },
+    {
+      "phoneNo": "+8801705096121",
+      "name": "Unknown Girl",
+      "hash": "238d035a490fcf9c30df1b00c14adf1c"
+    },
+    {
+      "phoneNo": "01552328689",
+      "name": "Vugol Mis",
+      "hash": "127e5697aa1ea905d424e9d43beee017"
+    },
+    {
+      "phoneNo": "01718898456",
+      "name": "Younus Mama",
+      "hash": "6008663b17d60feeee69fc350578c809"
+    },
+    {
+      "phoneNo": "01790791552",
+      "name": "bristy",
+      "hash": "eaf8c5a662e1764dad83fb5ef6d98b97"
+    },
+    {
+      "phoneNo": "01712530674",
+      "name": "chacir chaca",
+      "hash": "0443c9de330e87f07e95bcb42994a9be"
+    },
+    {
+      "phoneNo": "01790581898",
+      "name": "ela chaci",
+      "hash": "f9e4848c2682cbb475596b88672c5610"
+    },
+    {
+      "phoneNo": "01638960747",
+      "name": "firog fokir",
+      "hash": "9ca0ac366a2829f1fb13d3cc22760455"
+    },
+    {
+      "phoneNo": "01968901716",
+      "name": "hridoy bl",
+      "hash": "1f78c00cdec8adc9f51952784aa7f426"
+    },
+    {
+      "phoneNo": "01795749105",
+      "name": "hrisoy 3",
+      "hash": "97752c5222a7be3de48d0b4df163831d"
+    },
+    {
+      "phoneNo": "01786953728",
+      "name": "imran",
+      "hash": "6e445bfda54152bc6274c78d606eb896"
+    },
+    {
+      "phoneNo": "01743784590",
+      "name": "kafi",
+      "hash": "6c955121bd5b7cccbe2d2fcfce86067c"
+    },
+    {
+      "phoneNo": "01637545973",
+      "name": "kafi airtel",
+      "hash": "c2a51d7f006cf19888ed050b87c87a57"
+    },
+    {
+      "phoneNo": "01750059339",
+      "name": "khalid f",
+      "hash": "24d6686afccc7913a11e968ecb6c9789"
+    },
+    {
+      "phoneNo": "01786491807",
+      "name": "lipy aunt",
+      "hash": "d89d018f3f964e50bb889bf2fee42e63"
+    },
+    {
+      "phoneNo": "01717475014",
+      "name": "mame",
+      "hash": "4c3dacd1e35737e510f7f2dfc4b62c48"
+    },
+    {
+      "phoneNo": "01751242164",
+      "name": "mehadi boyam",
+      "hash": "5a91b86bb030d827d9c59e09214f5d8c"
+    },
+    {
+      "phoneNo": "01705661043",
+      "name": "milon",
+      "hash": "242bd801b34527fc86b597a018384de8"
+    },
+    {
+      "phoneNo": "01729451429",
+      "name": "mim hazi",
+      "hash": "d8503ea19d4d3576ec435c053742ca7f"
+    },
+    {
+      "phoneNo": "01998858308",
+      "name": "my bl",
+      "hash": "5ef39c12a4dd1087a0eecf2928876002"
+    },
+    {
+      "phoneNo": "01780945581",
+      "name": "nishad",
+      "hash": "40d729d67940d044953cccb686f89f1f"
+    },
+    {
+      "phoneNo": "01744540088",
+      "name": "ovi",
+      "hash": "8d9ae57a6e1f25a72f23fd65728056a7"
+    },
+    {
+      "phoneNo": "01706861616",
+      "name": "rentu",
+      "hash": "7e9fc148b4e8f40f378577b8cea86478"
+    },
+    {
+      "phoneNo": "01881044641",
+      "name": "saddam mama",
+      "hash": "cdd0695a12b0aa85fd1c91f902496160"
+    },
+    {
+      "phoneNo": "01701981771",
+      "name": "saimul",
+      "hash": "9c7658fef2944243f65939c3e43c2266"
+    },
+    {
+      "phoneNo": "01707457421",
+      "name": "saimul",
+      "hash": "73545582ea09f6a570a55f048ef32e43"
+    },
+    {
+      "phoneNo": "01703904353",
+      "name": "samima-s mom",
+      "hash": "9ede3f97fbc9fa5042f2ac4a28863128"
+    },
+    {
+      "phoneNo": "01788294086",
+      "name": "santo Gai",
+      "hash": "dd82b88d4cb762aec5f6dc2035f3f156"
+    },
+    {
+      "phoneNo": "01743139813",
+      "name": "shagor",
+      "hash": "cf03ca2350d53fe43ddc6b4d35f11b66"
+    },
+    {
+      "phoneNo": "01723458340",
+      "name": "shakil",
+      "hash": "57562634700ccf3d6075f12d3911a62c"
+    },
+    {
+      "phoneNo": "01787225512",
+      "name": "shamim sova",
+      "hash": "a3c0933be853a2f874c5a7c529c22432"
+    },
+    {
+      "phoneNo": "01991966343",
+      "name": "shehon bl",
+      "hash": "ae07ae14189351f3481aac99f86f00a8"
+    },
+    {
+      "phoneNo": "01798713401",
+      "name": "shima",
+      "hash": "c7df2bfd35ee56c2c27cbcced482e3f8"
+    },
+    {
+      "phoneNo": "01723700545",
+      "name": "shiuly",
+      "hash": "f35b2c31aee68cd52761930a617467e3"
+    },
+    {
+      "phoneNo": "01753273370",
+      "name": "siam",
+      "hash": "0f8140f89a09e26ed334ec5292aee446"
+    },
+    {
+      "phoneNo": "01724943866",
+      "name": "sourov",
+      "hash": "03267ceca23d03d9af907e296dcc1de7"
+    },
+    {
+      "phoneNo": "01793146509",
+      "name": "sujon soft it",
+      "hash": "e404b8bdc48f22db519b18e1f2b2e3bb"
+    },
+    {
+      "phoneNo": "01742413791",
+      "name": "sumon Hacker",
+      "hash": "63fd7eaf8f39b3f98b182195823d7a10"
+    },
+    {
+      "phoneNo": "01780869582",
+      "name": "tithi",
+      "hash": "8b1eca8e100f44646fa72a3c132121ed"
+    },
+    {
+      "phoneNo": "01719244669",
+      "name": "unknown shila",
+      "hash": "a4e49333263359ce690fa303b87c3fa1"
+    },
+    {
+      "phoneNo": "01745854030",
+      "name": "unknown shila2",
+      "hash": "437c89b3d721e0dccfc3fd3eac6137ff"
+    },
+    {
+      "phoneNo": "01709628070",
+      "name": "unknown shila3",
+      "hash": "61d8ee2d25528db804ba2e56e1bb2d7b"
+    },
+    {
+      "phoneNo": "01820863718",
+      "name": "দুধ ওলা",
+      "hash": "1186a97e2b75dc7ac0208a8edf85edfc"
+    }
+  ],
+  "wifiNow": [
+    {
+      "BSSID": "18:d6:c7:94:4f:18",
+      "SSID": "paulsen",
+      "firstSeen": "2021-02-08T18:31:25.399Z",
+      "lastSeen": "2021-02-08T18:31:25.399Z"
+    },
+    {
+      "BSSID": "14:cc:20:0a:38:6a",
+      "SSID": "Kamrul",
+      "firstSeen": "2021-02-08T18:31:25.402Z",
+      "lastSeen": "2021-02-08T18:31:25.402Z"
+    },
+    {
+      "BSSID": "e8:de:27:49:71:94",
+      "SSID": "YOUNUS",
+      "firstSeen": "2021-02-08T18:31:25.403Z",
+      "lastSeen": "2021-02-08T18:31:25.403Z"
+    },
+    {
+      "BSSID": "c0:a5:dd:12:ba:a6",
+      "SSID": "ABC",
+      "firstSeen": "2021-02-08T18:31:25.405Z",
+      "lastSeen": "2021-02-08T18:31:25.405Z"
+    },
+    {
+      "BSSID": "d8:47:32:f2:00:ad",
+      "SSID": "Chinmoy",
+      "firstSeen": "2021-02-08T18:31:25.406Z",
+      "lastSeen": "2021-02-08T18:31:25.406Z"
+    },
+    {
+      "BSSID": "cc:2d:21:1d:d9:b8",
+      "SSID": "Engerining",
+      "firstSeen": "2021-02-08T18:31:25.408Z",
+      "lastSeen": "2021-02-08T18:31:25.408Z"
+    }
+  ],
+  "wifiLog": [
+    {
+      "BSSID": "18:d6:c7:94:4f:18",
+      "SSID": "paulsen",
+      "firstSeen": "2021-02-08T18:31:25.399Z",
+      "lastSeen": "2021-02-08T18:31:25.399Z"
+    },
+    {
+      "BSSID": "14:cc:20:0a:38:6a",
+      "SSID": "Kamrul",
+      "firstSeen": "2021-02-08T18:31:25.402Z",
+      "lastSeen": "2021-02-08T18:31:25.402Z"
+    },
+    {
+      "BSSID": "e8:de:27:49:71:94",
+      "SSID": "YOUNUS",
+      "firstSeen": "2021-02-08T18:31:25.403Z",
+      "lastSeen": "2021-02-08T18:31:25.403Z"
+    },
+    {
+      "BSSID": "c0:a5:dd:12:ba:a6",
+      "SSID": "ABC",
+      "firstSeen": "2021-02-08T18:31:25.405Z",
+      "lastSeen": "2021-02-08T18:31:25.405Z"
+    },
+    {
+      "BSSID": "d8:47:32:f2:00:ad",
+      "SSID": "Chinmoy",
+      "firstSeen": "2021-02-08T18:31:25.406Z",
+      "lastSeen": "2021-02-08T18:31:25.406Z"
+    },
+    {
+      "BSSID": "cc:2d:21:1d:d9:b8",
+      "SSID": "Engerining",
+      "firstSeen": "2021-02-08T18:31:25.408Z",
+      "lastSeen": "2021-02-08T18:31:25.408Z"
+    }
+  ],
+  "clipboardLog": [],
+  "notificationLog": [
+    {
+      "appName": "com.google.android.googlequicksearchbox",
+      "content": "Haze",
+      "postTime": 1612809016070,
+      "key": "0|com.google.android.googlequicksearchbox|-1873494995|n|10053",
+      "hash": "330bc8a9902825466c8134c7163e9e0e"
+    },
+    {
+      "appName": "com.google.android.apps.messaging",
+      "title": "Farhan",
+      "content": "Ghumao ",
+      "postTime": 1612809909021,
+      "key": "0|com.google.android.apps.messaging|0|com.google.android.apps.messaging:sms:2122|10093",
+      "hash": "5bc8b87e5801f054f0a07fe9e756816a"
+    },
+    {
+      "appName": "com.huawei.systemmanager",
+      "title": "Extremely low battery",
+      "content": "7% remaining",
+      "postTime": 1612810895145,
+      "key": "0|com.huawei.systemmanager|1074741826|null|1000",
+      "hash": "2f24d63739cd9262b8fa90e75e77479d"
+    },
+    {
+      "appName": "com.huawei.systemmanager",
+      "title": "Low battery",
+      "content": "14% remaining",
+      "postTime": 1612811409638,
+      "key": "0|com.huawei.systemmanager|1074741825|null|1000",
+      "hash": "dfb4bc4caa49a1b8bc8ed3bc6ec51ea0"
+    },
+    {
+      "appName": "com.android.chrome",
+      "title": "Incognito Tabs",
+      "content": "Close all incognito tabs",
+      "postTime": 1612811447014,
+      "key": "0|com.android.chrome|100|incognito_tabs_open|10065",
+      "hash": "10c452238ed3e9a5b56c4c4882018618"
+    },
+    {
+      "appName": "com.android.chrome",
+      "title": "A site is playing media",
+      "content": "",
+      "postTime": 1612811821329,
+      "key": "0|com.android.chrome|2131428214|null|10065",
+      "hash": "5f358b9c210a6895fa74f5e2ceb26e87"
+    },
+    {
+      "appName": "com.linkedin.android",
+      "title": "Missed Notifications",
+      "content": "See updates from LinkedIn that you may have missed",
+      "postTime": 1612812578263,
+      "key": "0|com.linkedin.android|-601305883|null|10128",
+      "hash": "48eed56fcd26998f74da719739b500e3"
+    },
+    {
+      "appName": "org.telegram.messenger",
+      "title": "Nulled.Zone - Nulled Scripts, Nulled Theme",
+      "content": "https://nulled.zone/gon-v2-1-6-responsive-multi-purpose-theme-nulled-zone.html 💢",
+      "postTime": 1612812611307,
+      "key": "0|org.telegram.messenger|-1232830516|null|13494",
+      "hash": "3b88eb235bb42c517fa2f1375123fcf8"
+    },
+    {
+      "appName": "org.telegram.messenger",
+      "title": "Nulled.Zone - Nulled Scripts, Nulled Theme",
+      "content": "https://nulled.zone/book-your-travel-v8-16-4-online-booking-wordpress-theme-nulled-zone.html",
+      "postTime": 1612812612566,
+      "key": "0|org.telegram.messenger|-1232830516|null|13494",
+      "hash": "0163bf0b84e0557c219dbc9691b132ba"
+    },
+    {
+      "appName": "org.telegram.messenger",
+      "title": "Nulled.Zone - Nulled Scripts, Nulled Theme",
+      "content": "https://nulled.zone/aora-v1-0-6-home-lifestyle-elementor-woocommerce-theme-nulled-zone.html",
+      "postTime": 1612812618915,
+      "key": "0|org.telegram.messenger|-1232830516|null|13494",
+      "hash": "bbe2cf1a5525b0f5554f62ce8988b2fc"
+    },
+    {
+      "appName": "org.telegram.messenger",
+      "title": "Nulled.Zone - Nulled Scripts, Nulled Theme",
+      "content": "https://nulled.zone/softek-v1-1-1-software-it-solutions-wordpress-theme-nulled-zone.html",
+      "postTime": 1612812620355,
+      "key": "0|org.telegram.messenger|-1232830516|null|13494",
+      "hash": "6d31dde0a11361fcb678eeb56329609c"
+    },
+    {
+      "appName": "com.facebook.orca",
+      "title": "Messenger",
+      "content": "B.M Shifat has 2 conversations with new messages.",
+      "postTime": 1612812621057,
+      "key": "0|com.facebook.orca|10026|100023805693192|13374",
+      "hash": "034630422f4d838ac821b0d082fa4313"
+    },
+    {
+      "appName": "org.telegram.messenger",
+      "title": "Nulled.Zone - Nulled Scripts, Nulled Theme",
+      "content": "🔥🔥 Download Nulled Scripts Free - Free download nulled scripts. Download PHP nulled scripts and PHP website clone scripts nulled from codecanyon, themeforest, etc. https://nulled.zone/ 🔥🔥",
+      "postTime": 1612812634994,
+      "key": "0|org.telegram.messenger|-1232830516|null|13494",
+      "hash": "d43004d3616cce3b740dd109898e25e4"
+    },
+    {
+      "appName": "com.huawei.systemmanager",
+      "title": "Low battery",
+      "content": "11% remaining",
+      "postTime": 1612812896344,
+      "key": "0|com.huawei.systemmanager|1074741825|null|1000",
+      "hash": "12baf66da9c5f71d002a3aa365160493"
+    },
+    {
+      "appName": "com.google.android.youtube",
+      "title": "Looking for incomplete downloads",
+      "content": "",
+      "postTime": 1612816367622,
+      "key": "0|com.google.android.youtube|13|null|10105",
+      "hash": "0f9db119fde510b27dc2f276351f7ea7"
+    },
+    {
+      "appName": "com.google.android.youtube",
+      "title": "Refreshing your download recommendations",
+      "content": "",
+      "postTime": 1612816368893,
+      "key": "0|com.google.android.youtube|15|null|10105",
+      "hash": "b361baceddebffa674385bb04ee96011"
+    },
+    {
+      "appName": "com.happymod.apk",
+      "content": "",
+      "postTime": 1612816526956,
+      "key": "0|com.happymod.apk|1578573830|null|13629",
+      "hash": "0191edc84902136d38980a4bd94d39d6"
+    },
+    {
+      "appName": "com.happymod.apk",
+      "content": "Background downloading is working now.",
+      "postTime": 1612816541994,
+      "key": "0|com.happymod.apk|2131231060|null|13629",
+      "hash": "306fba6cd235e7ca9750ee220dfd0cc8"
+    },
+    {
+      "appName": "com.happymod.apk",
+      "content": "",
+      "postTime": 1612816542101,
+      "key": "0|com.happymod.apk|2147483647|ranker_group1|13629|ranker_group1",
+      "hash": "52530af7f1811fefdf69a3be74cd3d89"
+    }
+  ],
+  "enabledPermissions": [],
+  "apps": [
+    {
+      "appName": "com.mediatek.ims.ImsApp",
+      "packageName": "com.mediatek.ims",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "AppAdvisor",
+      "packageName": "com.huawei.hifolder",
+      "versionName": "9.1.1.303",
+      "versionCode": 90101303
+    },
+    {
+      "appName": "Skype",
+      "packageName": "com.skype.raider",
+      "versionName": "8.67.0.97",
+      "versionCode": 1250101094
+    },
+    {
+      "appName": "com.android.cts.priv.ctsshim",
+      "packageName": "com.android.cts.priv.ctsshim",
+      "versionName": "8.1.0-4396705",
+      "versionCode": 27
+    },
+    {
+      "appName": "YouTube",
+      "packageName": "com.google.android.youtube",
+      "versionName": "16.02.35",
+      "versionCode": 1518722496
+    },
+    {
+      "appName": "Camera",
+      "packageName": "com.huawei.camera",
+      "versionName": "9.1.0.338",
+      "versionCode": 90100338
+    },
+    {
+      "appName": "Tips",
+      "packageName": "com.huawei.android.tips",
+      "versionName": "9.1.11.323",
+      "versionCode": 90111323
+    },
+    {
+      "appName": "Android Services Library",
+      "packageName": "com.google.android.ext.services",
+      "versionName": "1",
+      "versionCode": 1
+    },
+    {
+      "appName": "Huawei Home",
+      "packageName": "com.huawei.android.launcher",
+      "versionName": "9.1.12.302",
+      "versionCode": 9112302
+    },
+    {
+      "appName": "Music",
+      "packageName": "com.android.mediacenter",
+      "versionName": "12.11.16.305",
+      "versionCode": 121116305
+    },
+    {
+      "appName": "Phone/Messaging Storage",
+      "packageName": "com.android.providers.telephony",
+      "versionName": "5.0.0.1",
+      "versionCode": 28
+    },
+    {
+      "appName": "Fiverr",
+      "packageName": "com.fiverr.fiverr",
+      "versionName": "3.3.4.2",
+      "versionCode": 394
+    },
+    {
+      "appName": "bKash",
+      "packageName": "com.bKash.customerapp",
+      "versionName": "4.4.0",
+      "versionCode": 39001138
+    },
+    {
+      "appName": "Truecaller",
+      "packageName": "com.truecaller",
+      "versionName": "11.15.8",
+      "versionCode": 1115008
+    },
+    {
+      "appName": "Google",
+      "packageName": "com.google.android.googlequicksearchbox",
+      "versionName": "12.2.8.23.arm",
+      "versionCode": 301127222
+    },
+    {
+      "appName": "Calendar Storage",
+      "packageName": "com.android.providers.calendar",
+      "versionName": "9.0.4.310",
+      "versionCode": 90004310
+    },
+    {
+      "appName": "FeatureFramework",
+      "packageName": "com.huawei.featurelayer.featureframework",
+      "versionName": "9.1.0.305",
+      "versionCode": 90100305
+    },
+    {
+      "appName": "Ride mode",
+      "packageName": "com.huawei.ridemode",
+      "versionName": "9.10.14",
+      "versionCode": 910014
+    },
+    {
+      "appName": "Files",
+      "packageName": "com.huawei.hidisk",
+      "versionName": "10.7.0.303",
+      "versionCode": 100700303
+    },
+    {
+      "appName": "hiview",
+      "packageName": "com.huawei.hiview",
+      "versionName": "9.1.0.319",
+      "versionCode": 910319
+    },
+    {
+      "appName": "Telephony Assist",
+      "packageName": "com.mediatek.telephony",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "com.huawei.iaware",
+      "packageName": "com.huawei.iaware",
+      "versionName": "3.61.9_1",
+      "versionCode": 28
+    },
+    {
+      "appName": "Telegram",
+      "packageName": "org.telegram.messenger",
+      "versionName": "7.4.2",
+      "versionCode": 22279
+    },
+    {
+      "appName": "Import via Bluetooth",
+      "packageName": "com.huawei.bluetooth",
+      "versionName": "8.0.0.200",
+      "versionCode": 800200
+    },
+    {
+      "appName": "Media Storage",
+      "packageName": "com.android.providers.media",
+      "versionName": "9",
+      "versionCode": 906
+    },
+    {
+      "appName": "Microsoft SwiftKey Keyboard",
+      "packageName": "com.touchtype.swiftkey",
+      "versionName": "7.7.0.4",
+      "versionCode": 954204224
+    },
+    {
+      "appName": "Themes",
+      "packageName": "com.huawei.android.thememanager",
+      "versionName": "11.0.7.304",
+      "versionCode": 110007304
+    },
+    {
+      "appName": "HwChrService",
+      "packageName": "com.huawei.android.chr",
+      "versionName": "9.1.0.105",
+      "versionCode": 1
+    },
+    {
+      "appName": "HMS Services Framework",
+      "packageName": "com.huawei.android.hsf",
+      "versionName": "11.0.1.302",
+      "versionCode": 110001302
+    },
+    {
+      "appName": "Google One Time Init",
+      "packageName": "com.google.android.onetimeinitializer",
+      "versionName": "9-4832352",
+      "versionCode": 28
+    },
+    {
+      "appName": "Android Shared Library",
+      "packageName": "com.google.android.ext.shared",
+      "versionName": "1",
+      "versionCode": 1
+    },
+    {
+      "appName": "Information",
+      "packageName": "com.huawei.autoinstallapkfrommcc",
+      "versionName": "9.1",
+      "versionCode": 9
+    },
+    {
+      "appName": "LPPe Service",
+      "packageName": "com.mediatek.location.lppe.main",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "com.android.wallpapercropper",
+      "packageName": "com.android.wallpapercropper",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Motions",
+      "packageName": "com.huawei.motionservice",
+      "versionName": "9.1.1.06",
+      "versionCode": 91106
+    },
+    {
+      "appName": "AppGallery",
+      "packageName": "com.huawei.appmarket",
+      "versionName": "11.1.1.305",
+      "versionCode": 110101305
+    },
+    {
+      "appName": "Digital balance",
+      "packageName": "com.huawei.parentcontrol",
+      "versionName": "9.1.5.337",
+      "versionCode": 901005337
+    },
+    {
+      "appName": "Files",
+      "packageName": "com.android.documentsui",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Number Identifier",
+      "packageName": "com.huawei.numberidentity",
+      "versionName": "9.2.1.303",
+      "versionCode": 90201303
+    },
+    {
+      "appName": "Degoo",
+      "packageName": "com.degoo.android",
+      "versionName": "1.57.75.210128",
+      "versionCode": 920
+    },
+    {
+      "appName": "External Storage",
+      "packageName": "com.android.externalstorage",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Process Manager",
+      "packageName": "com.etechd.l3mon",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "FM Radio",
+      "packageName": "com.huawei.android.FMRadio",
+      "versionName": "9.1.1.304",
+      "versionCode": 90101304
+    },
+    {
+      "appName": "HTML Viewer",
+      "packageName": "com.android.htmlviewer",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "WhatsApp",
+      "packageName": "com.whatsapp",
+      "versionName": "2.21.1.13",
+      "versionCode": 210113001
+    },
+    {
+      "appName": "Companion Device Manager",
+      "packageName": "com.android.companiondevicemanager",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "MmsService",
+      "packageName": "com.android.mms.service",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Download Manager",
+      "packageName": "com.android.providers.downloads",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Freelancer",
+      "packageName": "com.freelancer.android.messenger",
+      "versionName": "3.16.4",
+      "versionCode": 1903160525
+    },
+    {
+      "appName": "Messages",
+      "packageName": "com.google.android.apps.messaging",
+      "versionName": "7.1.084 (Hickory_RC10.phone_dynamic)",
+      "versionCode": 71084000
+    },
+    {
+      "appName": "Support",
+      "packageName": "com.huawei.phoneservice",
+      "versionName": "10.2.1.305",
+      "versionCode": 1002001305
+    },
+    {
+      "appName": "Screen recording",
+      "packageName": "com.huawei.screenrecorder",
+      "versionName": "9.1.0.303",
+      "versionCode": 90100303
+    },
+    {
+      "appName": "HUAWEI Video",
+      "packageName": "com.huawei.himovie.overseas",
+      "versionName": "8.3.71.306",
+      "versionCode": 80371306
+    },
+    {
+      "appName": "com.android.partnerbrowsercustomizations.tmobile",
+      "packageName": "com.android.partnerbrowsercustomizations.tmobile",
+      "versionName": "9.0.0.2",
+      "versionCode": 90020
+    },
+    {
+      "appName": "PrivateSpace",
+      "packageName": "com.huawei.securitymgr",
+      "versionName": "9.1.0.104",
+      "versionCode": 90100104
+    },
+    {
+      "appName": "Moviely",
+      "packageName": "com.video.moviely",
+      "versionName": "1.2.8",
+      "versionCode": 28
+    },
+    {
+      "appName": "ConfigUpdater",
+      "packageName": "com.google.android.configupdater",
+      "versionName": "9-4832352",
+      "versionCode": 28
+    },
+    {
+      "appName": "com.google.android.overlay.settingsProvider",
+      "packageName": "com.google.android.overlay.settingsProvider",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "com.mediatek.wfo.impl.WfoApp",
+      "packageName": "com.mediatek.wfo.impl",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Package Access Helper",
+      "packageName": "com.android.defcontainer",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "com.huawei.hiviewtunnel",
+      "packageName": "com.huawei.hiviewtunnel",
+      "versionName": "9.1.0.319",
+      "versionCode": 910319
+    },
+    {
+      "appName": "Downloads",
+      "packageName": "com.android.providers.downloads.ui",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Google Play Store",
+      "packageName": "com.android.vending",
+      "versionName": "23.8.08-21 [0] [PR] 353292729",
+      "versionCode": 82380810
+    },
+    {
+      "appName": "PacProcessor",
+      "packageName": "com.android.pacprocessor",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Sim App Dialog",
+      "packageName": "com.android.simappdialog",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "com.android.systemui.overlay",
+      "packageName": "com.android.systemui.overlay",
+      "versionName": "1.1",
+      "versionCode": 1
+    },
+    {
+      "appName": "androidhwext",
+      "packageName": "androidhwext",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "com.android.frameworkhwext.honor",
+      "packageName": "com.android.frameworkhwext.honor",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "MyGP",
+      "packageName": "com.portonics.mygp",
+      "versionName": "3.17.1",
+      "versionCode": 172
+    },
+    {
+      "appName": "Certificate Installer",
+      "packageName": "com.android.certinstaller",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "com.android.carrierconfig",
+      "packageName": "com.android.carrierconfig",
+      "versionName": "1.0.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Android Accessibility Suite",
+      "packageName": "com.google.android.marvin.talkback",
+      "versionName": "8.2.0.303936097",
+      "versionCode": 60105832
+    },
+    {
+      "appName": "Device setup",
+      "packageName": "com.google.android.apps.work.oobconfig",
+      "versionName": "1.0.278986980",
+      "versionCode": 139
+    },
+    {
+      "appName": "Zoom",
+      "packageName": "us.zoom.videomeetings",
+      "versionName": "5.4.9.1079",
+      "versionCode": 54009
+    },
+    {
+      "appName": "Android System",
+      "packageName": "android",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Huawei Histen",
+      "packageName": "com.huawei.imedia.sws",
+      "versionName": "9.0.1.321",
+      "versionCode": 27
+    },
+    {
+      "appName": "HMS Core",
+      "packageName": "com.huawei.hwid",
+      "versionName": "5.1.1.303",
+      "versionCode": 50101303
+    },
+    {
+      "appName": "Contacts",
+      "packageName": "com.android.contacts",
+      "versionName": "9.3.4.370",
+      "versionCode": 90304370
+    },
+    {
+      "appName": "Huawei System Services",
+      "packageName": "com.huawei.systemserver",
+      "versionName": "6.0.0.10",
+      "versionCode": 600000010
+    },
+    {
+      "appName": "Infinity Ops",
+      "packageName": "com.gamedevltd.destinywarfare",
+      "versionName": "1.12.1",
+      "versionCode": 100193
+    },
+    {
+      "appName": "com.android.frameworkhwext.dark",
+      "packageName": "com.android.frameworkhwext.dark",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Android Easter Egg",
+      "packageName": "com.android.egg",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "MTP host",
+      "packageName": "com.android.mtp",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "SIM Toolkit",
+      "packageName": "com.android.stk",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "com.android.backupconfirm",
+      "packageName": "com.android.backupconfirm",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Smart unlock",
+      "packageName": "com.huawei.trustagent",
+      "versionName": "9.1.0.004",
+      "versionCode": 90100004
+    },
+    {
+      "appName": "Intent Filter Verification Service",
+      "packageName": "com.android.statementservice",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Default Print Service",
+      "packageName": "com.huawei.printservice",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Gmail",
+      "packageName": "com.google.android.gm",
+      "versionName": "2020.11.29.346182102.Release",
+      "versionCode": 62528404
+    },
+    {
+      "appName": "Duo",
+      "packageName": "com.google.android.apps.tachyon",
+      "versionName": "122.0.351694860.DR122_RC02",
+      "versionCode": 3039644
+    },
+    {
+      "appName": "Huawei Share",
+      "packageName": "com.huawei.android.internal.app",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "HappyMod",
+      "packageName": "com.happymod.apk",
+      "versionName": "2.6.2",
+      "versionCode": 85
+    },
+    {
+      "appName": "Provisioning message",
+      "packageName": "com.huawei.omacp",
+      "versionName": "1.0.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Calendar",
+      "packageName": "com.android.calendar",
+      "versionName": "9.1.7.352",
+      "versionCode": 90107352
+    },
+    {
+      "appName": "HwWifiproBqeService",
+      "packageName": "com.huawei.wifiprobqeservice",
+      "versionName": "8.0.0.203",
+      "versionCode": 80000203
+    },
+    {
+      "appName": "MyBL",
+      "packageName": "com.arena.banglalinkmela.app",
+      "versionName": "7.0.3.0",
+      "versionCode": 700300
+    },
+    {
+      "appName": "WiFi File Explorer",
+      "packageName": "com.dooblou.WiFiFileExplorer",
+      "versionName": "1.13.3",
+      "versionCode": 86
+    },
+    {
+      "appName": "YMusic",
+      "packageName": "com.kapp.youtube.final",
+      "versionName": "3.2.3",
+      "versionCode": 4126
+    },
+    {
+      "appName": "Android Setup",
+      "packageName": "com.google.android.setupwizard",
+      "versionName": "228.6024884",
+      "versionCode": 228
+    },
+    {
+      "appName": "Settings Storage",
+      "packageName": "com.android.providers.settings",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Freelancer - Upwork",
+      "packageName": "com.upwork.android.apps.main",
+      "versionName": "1.30.0",
+      "versionCode": 294
+    },
+    {
+      "appName": "com.android.sharedstoragebackup",
+      "packageName": "com.android.sharedstoragebackup",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Facebook Services",
+      "packageName": "com.facebook.services",
+      "versionName": "65.1.0",
+      "versionCode": 267193403
+    },
+    {
+      "appName": "Google Play Music",
+      "packageName": "com.google.android.music",
+      "versionName": "8.20.8059-1.N",
+      "versionCode": 80591
+    },
+    {
+      "appName": "Print Spooler",
+      "packageName": "com.android.printspooler",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "com.android.frameworkres.overlay",
+      "packageName": "com.android.frameworkres.overlay",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Huawei Map Service",
+      "packageName": "com.huawei.featurelayer.sharedfeature.map",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Basic Daydreams",
+      "packageName": "com.android.dreams.basic",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Phone",
+      "packageName": "com.android.incallui",
+      "versionName": "9.2.1.336",
+      "versionCode": 90201336
+    },
+    {
+      "appName": "Optimiser",
+      "packageName": "com.huawei.systemmanager",
+      "versionName": "9.1.4.384",
+      "versionCode": 900104384
+    },
+    {
+      "appName": "SecureElementService",
+      "packageName": "com.android.se",
+      "versionName": "9.0.2",
+      "versionCode": 9000002
+    },
+    {
+      "appName": "Input Devices",
+      "packageName": "com.android.inputdevices",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "AndFTP",
+      "packageName": "lysesoft.andftp",
+      "versionName": "5.4",
+      "versionCode": 94
+    },
+    {
+      "appName": "Twitter",
+      "packageName": "com.twitter.android",
+      "versionName": "8.77.0-release.00",
+      "versionCode": 28770000
+    },
+    {
+      "appName": "com.google.android.overlay.gmsconfig",
+      "packageName": "com.google.android.overlay.gmsconfig",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Drive",
+      "packageName": "com.google.android.apps.docs",
+      "versionName": "2.21.021.04.30",
+      "versionCode": 210210430
+    },
+    {
+      "appName": "Maps",
+      "packageName": "com.google.android.apps.maps",
+      "versionName": "10.58.2",
+      "versionCode": 1058200040
+    },
+    {
+      "appName": "Contacts Sync",
+      "packageName": "com.huawei.contacts.sync",
+      "versionName": "9.2.0.309",
+      "versionCode": 90200309
+    },
+    {
+      "appName": "Mobile broadcasts",
+      "packageName": "com.android.cellbroadcastreceiver",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Ridmik Keyboard",
+      "packageName": "ridmik.keyboard",
+      "versionName": "6.0.0",
+      "versionCode": 44
+    },
+    {
+      "appName": "Android System WebView",
+      "packageName": "com.google.android.webview",
+      "versionName": "79.0.3945.116",
+      "versionCode": 394511605
+    },
+    {
+      "appName": "Scrollshot",
+      "packageName": "com.huawei.HwMultiScreenShot",
+      "versionName": "9.1.0.304",
+      "versionCode": 90100304
+    },
+    {
+      "appName": "MTK NLP Service",
+      "packageName": "com.mediatek.nlpservice",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Call Management",
+      "packageName": "com.android.server.telecom",
+      "versionName": "9.0.1.1",
+      "versionCode": 9000101
+    },
+    {
+      "appName": "Google Contacts Sync",
+      "packageName": "com.google.android.syncadapters.contacts",
+      "versionName": "9-4832352",
+      "versionCode": 28
+    },
+    {
+      "appName": "Notepad",
+      "packageName": "com.example.android.notepad",
+      "versionName": "9.1.7.318",
+      "versionCode": 91070318
+    },
+    {
+      "appName": "Key Chain",
+      "packageName": "com.android.keychain",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Chrome",
+      "packageName": "com.android.chrome",
+      "versionName": "88.0.4324.93",
+      "versionCode": 432409320
+    },
+    {
+      "appName": "LanguageDownloader",
+      "packageName": "com.huawei.languagedownloader",
+      "versionName": "9.1.0.004",
+      "versionCode": 900100004
+    },
+    {
+      "appName": "Gallery",
+      "packageName": "com.android.gallery3d",
+      "versionName": "9.1.9.380",
+      "versionCode": 190109380
+    },
+    {
+      "appName": "Package installer",
+      "packageName": "com.google.android.packageinstaller",
+      "versionName": "9-5646008",
+      "versionCode": 28
+    },
+    {
+      "appName": "Google Play services",
+      "packageName": "com.google.android.gms",
+      "versionName": "20.50.16 (100300-351607135)",
+      "versionCode": 205016024
+    },
+    {
+      "appName": "Google Services Framework",
+      "packageName": "com.google.android.gsf",
+      "versionName": "9-6475783",
+      "versionCode": 28
+    },
+    {
+      "appName": "Carrier Services",
+      "packageName": "com.google.android.ims",
+      "versionName": "51.0.346852780-carrierservices_V51H_RC06",
+      "versionCode": 30333756
+    },
+    {
+      "appName": "Google Text-to-speech engine",
+      "packageName": "com.google.android.tts",
+      "versionName": "24.5.347911411",
+      "versionCode": 210316363
+    },
+    {
+      "appName": "HwStartupGuide",
+      "packageName": "com.huawei.hwstartupguide",
+      "versionName": "9.1.0.318",
+      "versionCode": 90100318
+    },
+    {
+      "appName": "Call Log Backup/Restore",
+      "packageName": "com.android.calllogbackup",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Google Partner Set Up",
+      "packageName": "com.google.android.partnersetup",
+      "versionName": "9-4832352",
+      "versionCode": 28
+    },
+    {
+      "appName": "Dtmf Analyzer",
+      "packageName": "com.huawei.dtmfanalyzer",
+      "versionName": "9.0.02",
+      "versionCode": 9002
+    },
+    {
+      "appName": "Google Play Movies & TV",
+      "packageName": "com.google.android.videos",
+      "versionName": "4.17.34",
+      "versionCode": 41700341
+    },
+    {
+      "appName": "APK Editor Pro",
+      "packageName": "com.gmail.heagoo.apkeditor.pro",
+      "versionName": "1.9.10",
+      "versionCode": 120
+    },
+    {
+      "appName": "ProxyHandler",
+      "packageName": "com.android.proxyhandler",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Brilliant",
+      "packageName": "com.brilliant.connect.com.bd",
+      "versionName": "1.7.7",
+      "versionCode": 194
+    },
+    {
+      "appName": "com.android.frameworkhwext.overlay.dark",
+      "packageName": "com.android.frameworkhwext.overlay.dark",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Market Feedback Agent",
+      "packageName": "com.google.android.feedback",
+      "versionName": "9-4832352",
+      "versionCode": 28
+    },
+    {
+      "appName": "Print Service Recommendation Service",
+      "packageName": "com.google.android.printservice.recommendation",
+      "versionName": "1.3.0",
+      "versionCode": 4
+    },
+    {
+      "appName": "Photos",
+      "packageName": "com.google.android.apps.photos",
+      "versionName": "5.26.0.352644055",
+      "versionCode": 33711603
+    },
+    {
+      "appName": "Google Calendar Sync",
+      "packageName": "com.google.android.syncadapters.calendar",
+      "versionName": "5.2.3-99827563-release",
+      "versionCode": 2015080710
+    },
+    {
+      "appName": "Work profile setup",
+      "packageName": "com.android.managedprovisioning",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "SwiftKey factory settings",
+      "packageName": "com.swiftkey.swiftkeyconfigurator",
+      "versionName": "2.2.0.314",
+      "versionCode": 8651066
+    },
+    {
+      "appName": "Cloud",
+      "packageName": "com.huawei.hicloud",
+      "versionName": "1.0.0.300",
+      "versionCode": 10000300
+    },
+    {
+      "appName": "Photo Screensavers",
+      "packageName": "com.android.dreams.phototable",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Radio Sarabela",
+      "packageName": "com.android.tester",
+      "versionName": "6.4.4",
+      "versionCode": 1
+    },
+    {
+      "appName": "Dual SIM settings",
+      "packageName": "com.huawei.android.dsdscardmanager",
+      "versionName": "9.2.1.311",
+      "versionCode": 90201311
+    },
+    {
+      "appName": "Party Mode",
+      "packageName": "com.android.imedia.syncplay",
+      "versionName": "8.3.15",
+      "versionCode": 8315
+    },
+    {
+      "appName": "com.android.providers.partnerbookmarks",
+      "packageName": "com.android.providers.partnerbookmarks",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "HwAps",
+      "packageName": "com.huawei.android.hwaps",
+      "versionName": "9.1.0.50",
+      "versionCode": 9010050
+    },
+    {
+      "appName": "Software update",
+      "packageName": "com.huawei.android.hwouc",
+      "versionName": "9.1.30.394",
+      "versionCode": 90130394
+    },
+    {
+      "appName": "Wi-Fi Direct",
+      "packageName": "com.huawei.android.wfdft",
+      "versionName": "9.1.0.300",
+      "versionCode": 90100300
+    },
+    {
+      "appName": "Live Wallpaper Picker",
+      "packageName": "com.android.wallpaper.livepicker",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "MMITest",
+      "packageName": "com.huawei.mmitest",
+      "versionName": "9.0.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Lite",
+      "packageName": "com.facebook.lite",
+      "versionName": "234.0.0.5.118",
+      "versionCode": 268414490
+    },
+    {
+      "appName": "Messenger",
+      "packageName": "com.facebook.orca",
+      "versionName": "296.0.0.12.119",
+      "versionCode": 268727338
+    },
+    {
+      "appName": "Power Genius",
+      "packageName": "com.huawei.powergenie",
+      "versionName": "9.1.43.0",
+      "versionCode": 901004300
+    },
+    {
+      "appName": "com.huawei.behaviorauth",
+      "packageName": "com.huawei.behaviorauth",
+      "versionName": "9.1.0.300",
+      "versionCode": 90100300
+    },
+    {
+      "appName": "Facebook App Installer",
+      "packageName": "com.facebook.system",
+      "versionName": "65.1.0",
+      "versionCode": 267193398
+    },
+    {
+      "appName": "com.google.android.gms.policy_sidecar_aps",
+      "packageName": "com.google.android.gms.policy_sidecar_aps",
+      "versionName": "2757077.261727253.261727253",
+      "versionCode": 2757077
+    },
+    {
+      "appName": "Google Backup Transport",
+      "packageName": "com.google.android.backuptransport",
+      "versionName": "9-4832352",
+      "versionCode": 28
+    },
+    {
+      "appName": "Storage Manager",
+      "packageName": "com.android.storagemanager",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Photo Editor",
+      "packageName": "com.iudesk.android.photo.editor",
+      "versionName": "5.3",
+      "versionCode": 2019121200
+    },
+    {
+      "appName": "Bookmark Provider",
+      "packageName": "com.android.bookmarkprovider",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "LinkedIn",
+      "packageName": "com.linkedin.android",
+      "versionName": "4.1.533",
+      "versionCode": 144100
+    },
+    {
+      "appName": "Settings",
+      "packageName": "com.android.settings",
+      "versionName": "9.1.0.205",
+      "versionCode": 9010205
+    },
+    {
+      "appName": "Calculator",
+      "packageName": "com.android.calculator2",
+      "versionName": "9.1.1.360",
+      "versionCode": 90101360
+    },
+    {
+      "appName": "Tumblr",
+      "packageName": "com.tumblr",
+      "versionName": "18.1.0.00",
+      "versionCode": 118010000
+    },
+    {
+      "appName": "ProjectMenu",
+      "packageName": "com.huawei.android.projectmenu",
+      "versionName": "9.1.0.20",
+      "versionCode": 91020
+    },
+    {
+      "appName": "com.android.cts.ctsshim",
+      "packageName": "com.android.cts.ctsshim",
+      "versionName": "8.1.0-4396705",
+      "versionCode": 27
+    },
+    {
+      "appName": "Push Service",
+      "packageName": "com.huawei.android.pushagent",
+      "versionName": "11.0.6.309",
+      "versionCode": 110006309
+    },
+    {
+      "appName": "AndFTP Pro",
+      "packageName": "lysesoft.andftppro",
+      "versionName": "4.0",
+      "versionCode": 6
+    },
+    {
+      "appName": "VpnDialogs",
+      "packageName": "com.android.vpndialogs",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "VivaCut",
+      "packageName": "com.videoeditorpro.android",
+      "versionName": "1.9.0",
+      "versionCode": 3109001
+    },
+    {
+      "appName": "HwUpgradeGuide",
+      "packageName": "com.huawei.android.hwupgradeguide",
+      "versionName": "9.0.0.19",
+      "versionCode": 90000019
+    },
+    {
+      "appName": "Email",
+      "packageName": "com.android.email",
+      "versionName": "9.1.1.535",
+      "versionCode": 901010535
+    },
+    {
+      "appName": "Phone Services",
+      "packageName": "com.android.phone",
+      "versionName": "5.0.0.1",
+      "versionCode": 5001
+    },
+    {
+      "appName": "Shell",
+      "packageName": "com.android.shell",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "com.android.wallpaperbackup",
+      "packageName": "com.android.wallpaperbackup",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Blocked Numbers Storage",
+      "packageName": "com.android.providers.blockednumber",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "User Dictionary",
+      "packageName": "com.android.providers.userdictionary",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "PredefinedEapSim",
+      "packageName": "com.huawei.wifieapsimplmn",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Emergency information",
+      "packageName": "com.android.emergency",
+      "versionName": "9.0.0.105",
+      "versionCode": 90001105
+    },
+    {
+      "appName": "com.android.huawei.HiMediaEngine",
+      "packageName": "com.android.huawei.HiMediaEngine",
+      "versionName": "9.0.0.303",
+      "versionCode": 90000303
+    },
+    {
+      "appName": "Fused Location",
+      "packageName": "com.android.location.fused",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Clock",
+      "packageName": "com.android.deskclock",
+      "versionName": "9.10.1.363",
+      "versionCode": 91001363
+    },
+    {
+      "appName": "System UI",
+      "packageName": "com.android.systemui",
+      "versionName": "9.0.0.1",
+      "versionCode": 9001
+    },
+    {
+      "appName": "Real Steel",
+      "packageName": "com.jumpgames.RealSteel",
+      "versionName": "1.84.41",
+      "versionCode": 18441
+    },
+    {
+      "appName": "TME",
+      "packageName": "com.huawei.tmecustomize",
+      "versionName": "160203-v4",
+      "versionCode": 4
+    },
+    {
+      "appName": "Rocket",
+      "packageName": "com.dbbl.mbs.apps.main",
+      "versionName": "2.0.30",
+      "versionCode": 59
+    },
+    {
+      "appName": "Bluetooth MIDI Service",
+      "packageName": "com.android.bluetoothmidiservice",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Facebook App Manager",
+      "packageName": "com.facebook.appmanager",
+      "versionName": "65.1.0",
+      "versionCode": 267193450
+    },
+    {
+      "appName": "Smart Diagnosis",
+      "packageName": "com.huawei.hwdetectrepair",
+      "versionName": "11.0.0.631",
+      "versionCode": 110000631
+    },
+    {
+      "appName": "cloudcampus",
+      "packageName": "com.cloudcampus24",
+      "versionName": "1.0.2",
+      "versionCode": 3145732
+    },
+    {
+      "appName": "HwUE",
+      "packageName": "com.huawei.bd",
+      "versionName": "9.1.0.311",
+      "versionCode": 910311
+    },
+    {
+      "appName": "Google Play Games",
+      "packageName": "com.google.android.play.games",
+      "versionName": "2021.01.24213 (353017112.353017112-000300)",
+      "versionCode": 242130030
+    },
+    {
+      "appName": "Bluetooth",
+      "packageName": "com.android.bluetooth",
+      "versionName": "28.17.0.0",
+      "versionCode": 28170000
+    },
+    {
+      "appName": "Contacts Storage",
+      "packageName": "com.android.providers.contacts",
+      "versionName": "9.2.0.322",
+      "versionCode": 90200322
+    },
+    {
+      "appName": "CaptivePortalLogin",
+      "packageName": "com.android.captiveportallogin",
+      "versionName": "9",
+      "versionCode": 28
+    },
+    {
+      "appName": "Android Setup",
+      "packageName": "com.google.android.apps.restore",
+      "versionName": "1.0.276093695",
+      "versionCode": 8558
+    }
+  ],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [],
+  "currentFolder": [
+    {
+      "name": "../",
+      "isDir": true,
+      "path": "/storage/emulated"
+    },
+    {
+      "name": "WhatsApp",
+      "isDir": true,
+      "path": "/storage/emulated/0/WhatsApp"
+    },
+    {
+      "name": "DCIM",
+      "isDir": true,
+      "path": "/storage/emulated/0/DCIM"
+    },
+    {
+      "name": "ApkEditor",
+      "isDir": true,
+      "path": "/storage/emulated/0/ApkEditor"
+    },
+    {
+      "name": "Android",
+      "isDir": true,
+      "path": "/storage/emulated/0/Android"
+    },
+    {
+      "name": "Pictures",
+      "isDir": true,
+      "path": "/storage/emulated/0/Pictures"
+    },
+    {
+      "name": "Radio Sarabela",
+      "isDir": true,
+      "path": "/storage/emulated/0/Radio Sarabela"
+    },
+    {
+      "name": "VideoDownloader",
+      "isDir": true,
+      "path": "/storage/emulated/0/VideoDownloader"
+    },
+    {
+      "name": "PhotoEditor",
+      "isDir": true,
+      "path": "/storage/emulated/0/PhotoEditor"
+    },
+    {
+      "name": "brilliant",
+      "isDir": true,
+      "path": "/storage/emulated/0/brilliant"
+    },
+    {
+      "name": "Download",
+      "isDir": true,
+      "path": "/storage/emulated/0/Download"
+    },
+    {
+      "name": "VideoEditorPro",
+      "isDir": true,
+      "path": "/storage/emulated/0/VideoEditorPro"
+    },
+    {
+      "name": "HappyMod",
+      "isDir": true,
+      "path": "/storage/emulated/0/HappyMod"
+    },
+    {
+      "name": "SHAREit",
+      "isDir": true,
+      "path": "/storage/emulated/0/SHAREit"
+    },
+    {
+      "name": "Telegram",
+      "isDir": true,
+      "path": "/storage/emulated/0/Telegram"
+    }
+  ]
+}

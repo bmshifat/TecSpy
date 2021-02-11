@@ -1,0 +1,362 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "loginToken": "",
+    "logs": [
+      {
+        "time": "2020-01-11T15:23:07.971Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2021-02-08T18:29:22.895Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T18:29:46.894Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 28a7658aae8169cd"
+      },
+      {
+        "time": "2021-02-08T18:29:47.655Z",
+        "type": "ERROR",
+        "message": "28a7658aae8169cd GPS Recieved No Data"
+      },
+      {
+        "time": "2021-02-08T18:30:15.378Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 28a7658aae8169cd"
+      },
+      {
+        "time": "2021-02-08T18:30:17.396Z",
+        "type": "SUCCESS",
+        "message": "28a7658aae8169cd Contacts Updated - 184 New Contacts Added"
+      },
+      {
+        "time": "2021-02-08T18:30:17.397Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T18:30:51.434Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 28a7658aae8169cd"
+      },
+      {
+        "time": "2021-02-08T18:30:54.758Z",
+        "type": "SUCCESS",
+        "message": "28a7658aae8169cd Apps Updated"
+      },
+      {
+        "time": "2021-02-08T18:31:24.704Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 28a7658aae8169cd"
+      },
+      {
+        "time": "2021-02-08T18:31:25.412Z",
+        "type": "SUCCESS",
+        "message": "28a7658aae8169cd WiFi Updated - 6 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2021-02-08T18:32:17.289Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 28a7658aae8169cd"
+      },
+      {
+        "time": "2021-02-08T18:32:17.607Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T18:32:26.838Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T18:32:32.791Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 28a7658aae8169cd"
+      },
+      {
+        "time": "2021-02-08T18:32:33.368Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2021-02-08T18:41:57.998Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T18:43:25.351Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T18:45:08.473Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T18:45:19.981Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T18:45:20.798Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T18:47:05.151Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T18:49:40.293Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T18:50:13.805Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T19:01:44.059Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T19:01:44.695Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T19:02:16.636Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T19:02:24.548Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T19:03:20.974Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T19:03:27.959Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T19:05:15.720Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T19:05:28.800Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T19:06:48.112Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T19:08:05.072Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T19:09:01.520Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T19:09:17.696Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T19:10:10.920Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T19:10:16.396Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T19:10:20.373Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T19:10:48.191Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T19:17:02.273Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T19:17:36.158Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T19:17:52.221Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T19:20:34.965Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T19:20:40.368Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T19:24:06.160Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T19:34:59.781Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T19:35:04.013Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T19:35:04.395Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T19:35:04.397Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T19:35:04.399Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T19:35:04.401Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T19:35:04.404Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T19:35:04.405Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T19:35:04.488Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T20:05:03.160Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T20:07:13.410Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T20:30:39.944Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T20:32:50.393Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T20:32:50.910Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T20:32:51.491Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T20:35:28.137Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T20:35:43.270Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T20:35:43.600Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Notification Recieved"
+      },
+      {
+        "time": "2021-02-08T20:35:49.542Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      },
+      {
+        "time": "2021-02-08T20:36:54.435Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Connected"
+      },
+      {
+        "time": "2021-02-08T20:37:00.760Z",
+        "type": "INFO",
+        "message": "28a7658aae8169cd Disconnected"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "28a7658aae8169cd",
+      "firstSeen": "2021-02-08T18:29:22.803Z",
+      "lastSeen": "2021-02-08T20:37:00.760Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "127.0.0.1",
+        "clientGeo": {},
+        "device": {
+          "model": "MRD-LX2",
+          "manufacture": "HUAWEI",
+          "version": "9"
+        }
+      }
+    }
+  ]
+}

