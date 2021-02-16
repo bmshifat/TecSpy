@@ -42,7 +42,6 @@ In the extracted folder, run these commands
 </ul>
 <h3>Set a Username &amp; Password</h3>
 <ol>
- 	<li>Stop L3MON <code>pm2 stop index</code></li>
  	<li>Open <code>maindb.json</code> in a text editor</li>
  	<li>under <code>admin</code>
 <ul>
@@ -51,8 +50,13 @@ In the extracted folder, run these commands
 </ul>
 </li>
  	<li>save the file</li>
+ 	<li>Now <code>restart the app</code></li>
+</ul>
+</li>
+ 	<li>save the file</li>
  	<li>run <code>pm2 restart all</code></li>
 </ol>
 &nbsp;
 <h2>Credits</h2>
 Credits for the original code base this repository is based on at<b> <a href="https://github.com/AhMyth/AhMyth-Android-RAT">AhMyth</a></b>
+
