@@ -52,9 +52,6 @@ In the extracted folder, run these commands
  	<li>save the file</li>
  	<li>Now <code>restart the app</code></li>
 </ul>
-</li>
- 	<li>save the file</li>
- 	<li>run <code>pm2 restart all</code></li>
 </ol>
 &nbsp;
 <h2>Credits</h2>
