@@ -55,5 +55,5 @@ In the extracted folder, run these commands
 </ol>
 &nbsp;
 <h2>Credits</h2>
-Credits for the original code base this repository is based on at<b> <a href="https://github.com/AhMyth/AhMyth-Android-RAT">AhMyth</a></b>
+Credits for the original code base this repository is based on at<b> <a href="https://github.com/D3VL/L3MON">L3MON</a></b>
 
