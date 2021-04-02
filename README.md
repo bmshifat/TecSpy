@@ -1,4 +1,4 @@
-<p align="center" ><img class="aligncenter" src="http://bmshifat.educationhost.cloud/favicon.png" alt="" width="116" height="113" /></p>
+<p align="center" ><img class="aligncenter" src="https://raw.githubusercontent.com/bmshifat/TecSpy/main/assets/webpublic/favicon.png" alt="" width="116" height="113" /></p>
 <p align="center" > A cloud-based Android Monitoring Tool, powered by NodeJS</p>
 
 <h2>Features</h2>
